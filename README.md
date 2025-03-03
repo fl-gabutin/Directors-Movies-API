@@ -1,4 +1,4 @@
-# Limepay Application - Directors-Movies API
+#Directors-Movies API
 
 ## Overview
 This project fetches and processes movie data from an external API and provides two REST endpoints:
